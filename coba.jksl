@@ -1,0 +1,19 @@
+literally nama = ("jhon")
+literally umur = 25
+
+spill("Halo " + nama + " Umur Anda adalah " + umur)
+
+literally angka1 = 50
+literally angka2 = 10
+
+literally hasil_tambah = angka1 + angka2
+spill("Hasil penjumlahan: " + hasil_tambah)
+
+literally hasil_kurang = angka1 - angka2
+spill("Hasil pengurangan: " + hasil_kurang)
+
+literally hasil_bagi = angka1 / angka2
+spill("Hasil pembagian: " + hasil_bagi)
+
+literally hasil_kali = angka1 * angka2
+spill("Hasil perkalian: " + hasil_kali)

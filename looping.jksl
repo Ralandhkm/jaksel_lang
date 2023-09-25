@@ -1,0 +1,15 @@
+spill((fungsi ulang(kata, jumlah)
+   literally kalimat_yg_diulang = kata * jumlah
+   kembali (kalimat_yg_diulang + " telah diulang " + jumlah + " kali")
+udahan)("ha ", 4))
+
+literally acuan = 30
+
+fomo acuan > 0 maka
+   kalo acuan <= 5 maka lanjutkan udahan
+   literally acuan = acuan - 1
+   tunggu(0.5)
+   spill("acuan: " + acuan)
+udahan
+
+spill("selesai!")

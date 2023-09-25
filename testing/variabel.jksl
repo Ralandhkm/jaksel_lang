@@ -1,0 +1,18 @@
+literally hai = 50
+
+fomo hai > 10 maka
+    spill(hai)
+    literally hai = hai - 1
+udahan
+
+fungsi menggokil(wee)
+    literally wee = wee * 3
+    kembali wee
+udahan
+
+-- pengganti ternary operator
+spill(1 + 1 == 2 dan "benar 2" atau "bukan 2")
+spill(nil atau "nihil")
+
+spill(substring("abc", 2)) 
+spill(menggokil("ha "))

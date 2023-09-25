@@ -1,0 +1,7 @@
+fungsi kasihKata(kata) -> "halo " + kata
+
+literally nama = ("nama: " + ("jhon"))
+literally umur = 25
+
+spill(nama)
+spill(umur)

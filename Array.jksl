@@ -1,0 +1,12 @@
+fungsi iterasi(array)
+   untuk i = 0 ke 4 maka
+      literally elemen_array = array / i
+      spill(elemen_array + " adalah indeks ke " + i)
+   udahan
+udahan
+
+literally array = ["halo ", "dunia ", "yang ", "indah"];
+iterasi(array);
+
+array + " eaak"
+spill(array)

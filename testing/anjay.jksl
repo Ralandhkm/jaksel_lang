@@ -1,0 +1,5 @@
+fungsi kasihKata(kata) -> "halo " + kata
+
+literally menggokil = kasihKata("anjay")
+
+spill(menggokil)
